@@ -1,5 +1,6 @@
 # FOS
  Featuring in two parts :
+ 
  1.[KERNEL] 
  1. Load and run multiple user programs 
  2. Page fault handler using LRU replacment algorithm 
